@@ -1,16 +1,12 @@
 # Login_UI
 
-A new Flutter project.
+Solo corre el main dart y listo
 
-## Getting Started
+por supuesto que necesitara los assets
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Este es el resultado 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![2](https://user-images.githubusercontent.com/53926523/85371203-80da5180-b4f5-11ea-9e0a-baf5ebbe7370.PNG)
